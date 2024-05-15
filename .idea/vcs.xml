@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/closure-compiler/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-cli/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-codec/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-compress/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-csv/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-jxpath/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-lang/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gson/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jackson-core/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jackson-databind/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jackson-dataformat-xml/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jfree-chart/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/joda-time/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jsoup/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mockito/project" vcs="Git" />
+  </component>
+</project>
