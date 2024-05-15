@@ -21,6 +21,7 @@ After initializing the current repository, each project will be contained within
     |           |       |   ...
     |           |       |-- ClassToAnalyze10.java
     |           |--project
+    |           |--jars
     |           |--class_list.csv
     |           |--oracles.csv
     |--[project_name_2]
@@ -30,6 +31,7 @@ After initializing the current repository, each project will be contained within
     |           |       |   ...
     |           |       |-- ClassToAnalyze10.java
     |           |--project
+    |           |--jars
     |           |--class_list.csv
     |           |--oracles.csv
     ...
@@ -37,6 +39,7 @@ After initializing the current repository, each project will be contained within
 The subfolder `classes` contains the 10 Java classes to analyze. The folder `project` contains the source code of the project,
 available in case the classes under tests import and uses methods of other classes that could be useful to analyze t extract
 semantically relevant oracles. The `class_list.csv` file is not relevant (contains the list of the 10 Java classes in .csv format).
+The `jars` folder contains the jar of the projects and the dependencies (if any).
 Finally, the `oracles.csv` file contains the oracles that I have already generated analyzing the 10 classes of the corresponding
 project. The csv format is not easily readable, therefore I share here the link to the Google document that contains one
 sheet for each project, with the list of all the oracles generated so far, in a tabular view ([link](https://docs.google.com/spreadsheets/d/1XSDvUkkhUBbscxtnP01bG-3fj8FHARV1VBv4I8JLuqM/edit#gid=0)).
