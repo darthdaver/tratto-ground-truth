@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="commons-lang3-3.14.0-SNAPSHOT">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/commons-lang/jars/commons-lang3-3.14.0-SNAPSHOT.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
